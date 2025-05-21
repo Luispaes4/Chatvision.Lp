@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-...")  # Substitua pela sua chave
+client = OpenAI(api_key="sk-...")  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
 
 st.set_page_config(page_title="ChatVision", layout="wide")
 
